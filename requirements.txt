@@ -1,4 +1,4 @@
-pytorch_lightning == 1.6.5 
+pytorch_lightning ~= 1.6.5 
 batchgenerators>=0.24
 nnunet == 1.7.1
 scipy ==1.15.2
