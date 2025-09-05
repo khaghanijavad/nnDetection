@@ -1,4 +1,3 @@
-pytorch_lightning ~= 1.6.5 
 batchgenerators>=0.24
 nnunet == 1.7.1
 scipy ==1.15.2
@@ -17,5 +16,8 @@ mlflow
 GitPython
 matplotlib
 seaborn
+torch==2.0.1
+torchvision==0.15.2
+pytorch_lightning ~= 1.6.5 
 torchmetrics>=0.7.0,<=0.7.3
 python-gdcm<3.0.26
