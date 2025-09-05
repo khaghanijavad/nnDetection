@@ -1,7 +1,7 @@
-pytorch_lightning
+pytorch_lightning == 1.6.5 
 batchgenerators>=0.24
-nnunet
-scipy
+nnunet == 1.7.1
+scipy ==1.15.2
 scikit-learn
 scikit-image
 pandas>=0.8.1
@@ -9,9 +9,9 @@ PyYAML>=5.1, !=5.4.*
 nevergrad
 dicom2nifti
 medpy
-SimpleITK
-tqdm
-loguru
+SimpleITK == 2.4.0
+tqdm ~= 4.66.3
+loguru == 0.7.3
 hydra-core>=1.1.0
 mlflow
 GitPython
